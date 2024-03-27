@@ -147,9 +147,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃🎧 _${lenguajeGB['smsTex2']()}_ 🎧
 ┃➺ _${usedPrefix}audioefectomenu_
 ┃
-┃🔞 _${lenguajeGB['smsTex3']()}_ 🔞
-┃➺ _${usedPrefix}menu18 | hornymenu_
-┃
 ┃⚗️ _${lenguajeGB['smsTex21']()}_ ⚗️
 ┃➺ _${usedPrefix}rpgmenu_
 ┃
