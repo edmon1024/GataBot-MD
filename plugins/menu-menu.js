@@ -478,7 +478,7 @@ ${margen}
 ✓ _${usedPrefix}myns_
 ✓ _${usedPrefix}unreg *numero de serie*_
 ✓ _${usedPrefix}minardiamantes | minargemas_
-✓ _${usedPrefix}minargatacoins | minarcoins_
+✓ _${usedPrefix}minarastrocoins | minarcoins_
 ✓ _${usedPrefix}minarexperiencia | minarexp_
 ✓ _${usedPrefix}minar *:* minar2 *:* minar3_
 ✓ _${usedPrefix}rob | robar 
@@ -549,7 +549,7 @@ ${margen}
 ✓ _${usedPrefix}unete *enlace*_
 ✓ _${usedPrefix}dardiamantes *cantidad*_
 ✓ _${usedPrefix}darxp *cantidad*_
-✓ _${usedPrefix}dargatacoins *cantidad*_
+✓ _${usedPrefix}darastrocoins *cantidad*_
 ✓ _${usedPrefix}addprem | userpremium *@tag* *cantidad*_
 ✓ _${usedPrefix}addprem2 | userpremium2 *@tag* *cantidad*_
 ✓ _${usedPrefix}addprem3 | userpremium3 *@tag* *cantidad*_
@@ -563,7 +563,7 @@ ${margen}
 ✓ _${usedPrefix}comunicargrupos *texto*_
 ✓ _${usedPrefix}borrartmp | cleartmp_
 ✓ _${usedPrefix}delexp *@tag*_
-✓ _${usedPrefix}delgatacoins *@tag*_
+✓ _${usedPrefix}delastrocoins *@tag*_
 ✓ _${usedPrefix}deldiamantes *@tag*_
 ✓ _${usedPrefix}reiniciar | restart_
 ✓ _${usedPrefix}ctualizar | update_
@@ -572,7 +572,7 @@ ${margen}
 ✓ _${usedPrefix}listapremium | listprem_
 ✓ _${usedPrefix}añadirdiamantes *@tag cantidad*_
 ✓ _${usedPrefix}añadirxp *@tag cantidad*_
-✓ _${usedPrefix}añadirgatacoins *@tag cantidad*_
+✓ _${usedPrefix}añadirastrocoins *@tag cantidad*_
 `.trim()
 await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 AstroBot - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
