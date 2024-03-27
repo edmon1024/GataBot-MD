@@ -139,7 +139,7 @@ global.gt = "AstroBot"
 global.yt = "https://youtube.com/@gatadios"
 global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
 global.ig = "https://www.instagram.com/gata_dios"
-global.md = "https://github.com/GataNina-Li/GataBot-MD"
+global.md = ""
 global.fb = "https://www.facebook.com/groups/872989990425789/"
 global.tk = "https://www.tiktok.com/@gata_bot"
 global.ths = "https://www.threads.net/@gata_dios"
@@ -150,7 +150,7 @@ global.bot = 'wa.me/5214431086138\n* wa.me/17866739002' //𝙂𝙖𝙩𝙖𝘽�
 global.nna = 'https://www.atom.bio/GataBot/' // Cuentas
 global.nn2 = 'https://t.me/supergatabot' // Grupo tg GataBot
 global.nna2 = 'https://chat.whatsapp.com/KaTeeaexrGSHBzPm4s945b' // Help
-global.nn = 'https://chat.whatsapp.com/HBIIrHorHbW2LIxlS9MjRI' // Grupo 1
+global.nn = '' // Grupo 1
 global.nnn = 'https://chat.whatsapp.com/CtA2nopOZor0bRwV3FCYH3' // Grupo 2
 global.nnnt = 'https://chat.whatsapp.com/HVLk7c3ZlNN0mJjodw4NkV' // Grupo 3
 global.nnntt = 'https://chat.whatsapp.com/BSDrNVhj2lVElUgrNnGoby' // Grupo 4
@@ -245,7 +245,8 @@ global.logogit = 'https://tinyurl.com/2qvl9vgs'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // ❰ RANDOMS ❱
 global.welgata = [tk, ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb, tk, ths, asistencia]
-global.redesMenu = [nna, nn, nn2, nnn, nnnt, nnntt, nnnttt, nnnttt1, nnnttt2, nnnttt3, nnnttt4, nnnttt5, md, ig, paypal, yt, asistencia, fb, tk]
+// global.redesMenu = [nna, nn, nn2, nnn, nnnt, nnntt, nnnttt, nnnttt1, nnnttt2, nnnttt3, nnnttt4, nnnttt5, md, ig, paypal, yt, asistencia, fb, tk]
+global.redesMenu = []
 // global.accountsgb = [channel1, channel2, channel3, tk, ig, yt, paypal, fb, ths, md, nna, asistencia]
 global.accountsgb = []
 global.gataMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img17, img18]

@@ -42,7 +42,9 @@ const { restrict } = global.db.data.settings[conn.user.jid] || {}
 const { autoread } = global.opts
 let pp = './media/menus/Menu1.jpg'
 let vn = './media/infobot.mp3'
-let grupos = [nna, nn, nnn, nnntt]
+let grupos = [
+  // nna, nn, nnn, nnntt
+]
 let gata = [img5, img6, img7, img8, img9]
 let enlace = { contextInfo: { externalAdReply: {title: wm + ' ', body: 'support group' , sourceUrl: grupos.getRandom(), thumbnail: await(await fetch(gata.getRandom())).buffer() }}}
 let enlace2 = { contextInfo: { externalAdReply: { showAdAttribution: true, mediaUrl: yt, mediaType: 'VIDEO', description: '', title: wm, body: 'The LoliBot-MD', thumbnailUrl: await(await fetch(img)).buffer(), sourceUrl: yt }}}

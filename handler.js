@@ -1433,7 +1433,9 @@ mentionedJid:[user],
 "title": "",
 "containsAutoReply": true,
 "mediaType": 1, 
-sourceUrl: [md, channel1, channel2, channel3, yt, ig, paypal, fb].getRandom()}}}, { quoted: fkontak2 })
+sourceUrl: [
+    // md, channel1, channel2, channel3, yt, ig, paypal, fb
+].getRandom()}}}, { quoted: fkontak2 })
 //this.sendFile(id, apii.data, 'pp.jpg', text, null, false, { mentions: [user] }, { quoted: fkontak2 })
 }}}
 			    

@@ -23,7 +23,7 @@ body: ig,
 "containsAutoReply": true,
 "mediaType": 1, 
 "mediaUrl": paypal, 
-"sourceUrl": paypal, 
+"sourceUrl": "", 
 }
 }
 }, { quoted: fkontak })}
