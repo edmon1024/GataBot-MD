@@ -246,7 +246,7 @@ v1="${b}\033[32m"
 b="\033[0m"
 
 menu() {
-	#GataBot-MD
+	#AstroBot
 	echo -e "${v1} MENÚ DE CONFIGURACIÓN"
 	printf "\n"
 	printf "${v1}[${b}01${v1}]${v} Visistar Grupo de Actualizaciones\n"
@@ -260,7 +260,7 @@ menu() {
 }
 
 menu_ayuda() {
-    #printf "${v1}[${b}++${v1}]${v} GataBot-MD${b}: "
+    #printf "${v1}[${b}++${v1}]${v} AstroBot${b}: "
 	read opcion
 	case $opcion in
             01|1)
