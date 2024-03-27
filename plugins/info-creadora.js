@@ -7,15 +7,14 @@ try{
 let contact, number, ofc, nombre, description, correo, lugar, enlace, biog
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let pp = gataImg.getRandom()	
-const cat = `𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+const cat = `AstroBot
 * ${bot}
 
 *---------------------*
 
-*CENTER GATABOT*
-*centergatabot@gmail.com*
+*CENTER ASTROBOT*
 
-𝙂𝘼𝙏𝘼 𝘿𝙄𝙊𝙎 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
+3d - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 *${asistencia}*
 
 *---------------------*
@@ -90,7 +89,7 @@ const sections = [
 	rows: [
 	    {title: "📱 • NOMBRE", rowId: ".owner nombre"},
 	{title: "🙌 • NUMERO", rowId: ".owner bio"},
-	{title: "🌐 • CUENTAS OFICIALES", rowId: ".cuentasgb"},
+	{title: "🌐 • CUENTAS OFICIALES", rowId: ".cuentasab"},
 	{title: "😸 • GRUPOS", rowId: ".grupos"},
 	{title: "🌎 • SCRIPT", rowId: ".sc"},
 	]
