@@ -630,7 +630,6 @@ return formattedCommands.join('\n')
 // showPrefix: Usar true para que muestre el prefijo, de lo contrario usar false
 // Si algún objeto no se va usar dejar en false, menos el objeto "comando" ya que si es false no mostrará nada
 const commandsInfo = [
-{ comando: 'cuentasastrobot , accounts', descripcion: false, contexto: 'Cuentas oficiales', showPrefix: true },
 { comando: 'grupos , linkgc', descripcion: false, contexto: 'Grupos oficiales', showPrefix: true },
 { comando: 'donar , donate', descripcion: false, contexto: 'Apoya al proyecto donando', showPrefix: true },
 { comando: 'listagrupos , grouplist', descripcion: false, contexto: 'Grupos en donde estoy', showPrefix: true },

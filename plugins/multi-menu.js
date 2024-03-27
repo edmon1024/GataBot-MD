@@ -496,7 +496,6 @@ let menuA = `🌟 ${lenguajeGB['smsConfi2']()} *${username}*
 ┊დ *${lenguajeGB['smsBotonM7']()} »* ${user.premiumTime > 0 ? '✅' : '❌'}
 ╰┄┄┄┄〔 *𓃠 ${vs}* 〕┄┄┄┄⊱
 ⠇ ${lenguajeGB['smsTex13']()} 💫
-∘ _${usedPrefix}cuentasastrobot | cuentasab_
 ∘ _${usedPrefix}gruposab | grupos | groupab_
 ∘ _${usedPrefix}donar | donate_
 ∘ _${usedPrefix}listagrupos | grouplist_
