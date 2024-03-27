@@ -553,7 +553,7 @@ clearInterval(intervalId)
 await conn.sendMessage(m.chat, {
 text: `🍃 \`\`\`VERIFICACIÓN EXITOSA\`\`\` 🍃
 *- - - - - - - - - - - - - - - - - - - - - - - - - - - -*\n
-😼 *REGISTRADO POR*
+🚀 *REGISTRADO POR*
 ❱❱ ${wm}\n
 📑 *TIPO DE REGISTRO* 
 ❱❱ ${user.registroC === true ? 'REGISTRO COMPLETO' : 'REGISTRO RÁPIDO'}\n

@@ -248,7 +248,7 @@ let topUsuariosCaros = []
 for (const usuario of preciosPersonajes) {
 if (!processedUsers.has(usuario.userId)) {
 let positionEmoji = topUsuariosCaros.length === 0 ? "🥇 »" : topUsuariosCaros.length === 1 ? "🥈 »" : topUsuariosCaros.length === 2 ? "🥉 »" : `${topUsuariosCaros.length + 1}.`
-topUsuariosCaros.push(`*${positionEmoji}* @${usuario.userId.split('@')[0]}\n*✪ ${usuario.personaje}* » \`\`\`${usuario.precio}\`\`\` 🐈`)
+topUsuariosCaros.push(`*${positionEmoji}* @${usuario.userId.split('@')[0]}\n*✪ ${usuario.personaje}* » \`\`\`${usuario.precio}\`\`\` 🚀`)
 processedUsers.add(usuario.userId)
 }
 if (topUsuariosCaros.length >= cantidadUsuariosRanking) break
@@ -257,7 +257,7 @@ let rankingCaros = topUsuariosCaros.length > 0 ? topUsuariosCaros.join('\n\n') :
 /*preciosPersonajes.sort((a, b) => b.precio - a.precio)
 let topUsuariosCaros = preciosPersonajes.slice(0, cantidadUsuariosRanking).map((usuario, index) => {
 let positionEmoji = index === 0 ? "🥇 »" : index === 1 ? "🥈 »" : index === 2 ? "🥉 »" : `${index + 1}.`
-return `*${positionEmoji}* @${usuario.userId.split('@')[0]}\n*✪ ${usuario.personaje}* » \`\`\`${usuario.precio}\`\`\` 🐈`
+return `*${positionEmoji}* @${usuario.userId.split('@')[0]}\n*✪ ${usuario.personaje}* » \`\`\`${usuario.precio}\`\`\` 🚀`
 }).join('\n\n')
 let rankingCaros = topUsuariosCaros ? topUsuariosCaros : 'Todavía no hay usuarios aquí'*/
 
@@ -454,7 +454,7 @@ ${personajesNoGustados > 0 ? txtDislike : personajesNoGustados}
 *✓ Nivel:* \`(${user.fantasy_character5}/11)\`
 *✓ Tipo:* _${contexto5}_
 `
-//let fake = { contextInfo: { externalAdReply: { title: `🌟 FANTASÍA RPG`, body: `😼 RPG de: » ${conn.getName(userId)}`, sourceUrl: accountsgb.getRandom(), thumbnailUrl: 'https://telegra.ph/file/2bc10639d4f5cf5685185.jpg' }}}
+//let fake = { contextInfo: { externalAdReply: { title: `🌟 FANTASÍA RPG`, body: `🚀 RPG de: » ${conn.getName(userId)}`, sourceUrl: accountsgb.getRandom(), thumbnailUrl: 'https://telegra.ph/file/2bc10639d4f5cf5685185.jpg' }}}
 let image = [
 'https://telegra.ph/file/77cd4b654273b5cde1ce8.jpg', 
 'https://telegra.ph/file/feb1553dffb7410556c8f.jpg',
@@ -470,7 +470,7 @@ externalAdReply: {
 showAdAttribution: false,
 renderLargerThumbnail: true,
 title: `🌟 FANTASÍA RPG`,
-body: `😼 RPG de: » ${conn.getName(userId)}`,
+body: `🚀 RPG de: » ${conn.getName(userId)}`,
 mediaType: 1,
 sourceUrl: accountsgb.getRandom(),
 thumbnailUrl: 'https://telegra.ph/file/2bc10639d4f5cf5685185.jpg'

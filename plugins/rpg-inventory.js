@@ -536,7 +536,7 @@ const cooldowns = Object.entries(inventory.cooldowns).map(([cd, { name, time }])
 *│* ${rubah == 0 ? '*No tengo | I do not have*' : '' || rubah > 0 && rubah < 5 ? `*Nivel/Level ${rubah} A Nivel/To Level ${rubah + 1}*\n*│* Exp *${_rubah}* -> *${rubah *100}*` : '' || rubah == 5 ? '*Nivel Máximo : Max Level*' : ''}
 *╰──┬─┄*
 *╭──┴─────────┄⸙*
-*│🐈 Gato : Cat* 
+*│🚀 Astro : Astro* 
 *│* ${kucing == 0 ? '*No tengo | I do not have*' : '' || kucing > 0 && kucing < 5 ? `*Nivel/Level ${kucing} A Nivel/To Level ${kucing + 1}*\n*│* Exp *${_kucing}* -> *${kucing *100}*` : '' || kucing == 5 ? '*Nivel Máximo : Max Level*' : ''}
 *╰──┬─┄*
 *╭──┴─────────┄⸙*
@@ -981,7 +981,7 @@ _16.Top Caja para Mascota_ *${userspet.indexOf(m.sender) + 1}* _de_ *${userspet.
 *│* ${rubah == 0 ? '*No tengo | I do not have*' : '' || rubah > 0 && rubah < 5 ? `*Nivel/Level ${rubah} A Nivel/To Level ${rubah + 1}*\n*│* Exp *${_rubah}* -> *${rubah *100}*` : '' || rubah == 5 ? '*Nivel Máximo : Max Level*' : ''}
 *╰──┬─┄*
 *╭──┴─────────┄⸙*
-*│🐈 Gato : Cat* 
+*│🚀 Astro : Astro* 
 *│* ${kucing == 0 ? '*No tengo | I do not have*' : '' || kucing > 0 && kucing < 5 ? `*Nivel/Level ${kucing} A Nivel/To Level ${kucing + 1}*\n*│* Exp *${_kucing}* -> *${kucing *100}*` : '' || kucing == 5 ? '*Nivel Máximo : Max Level*' : ''}
 *╰──┬─┄*
 *╭──┴─────────┄⸙*
@@ -1609,7 +1609,7 @@ const fkontak = {
 	"participant": "0@s.whatsapp.net"
 }
 conn.sendFile(m.chat, imgr, 'gata.jpg', aineh, fkontak, m)}
-//await conn.sendButton(m.chat, `*𝗣𝗥𝗘𝗠𝗜𝗨𝗠 ${user.premium ? "✅": "❌"}*\n${wm}`, aineh, imgr + 'Inventario : Inventory', [[`🐈 𝙄𝙣𝙫𝙚𝙣𝙩𝙖𝙧𝙞𝙤 𝙙𝙚 𝘼𝙣𝙞𝙢𝙖𝙡𝙚𝙨`, `${usedPrefix}animales`],[`🎒 𝙄𝙣𝙫𝙚𝙣𝙩𝙖𝙧𝙞𝙤 𝙩𝙤𝙩𝙖𝙡`, `${usedPrefix}inventario 4`],['𝙈𝙚𝙣𝙪 𝘼𝙫𝙚𝙣𝙩𝙪𝙧𝙖 | 𝙍𝙋𝙂 💗', '.rpgmenu']], fkontak, m)}
+//await conn.sendButton(m.chat, `*𝗣𝗥𝗘𝗠𝗜𝗨𝗠 ${user.premium ? "✅": "❌"}*\n${wm}`, aineh, imgr + 'Inventario : Inventory', [[`🚀 𝙄𝙣𝙫𝙚𝙣𝙩𝙖𝙧𝙞𝙤 𝙙𝙚 𝘼𝙣𝙞𝙢𝙖𝙡𝙚𝙨`, `${usedPrefix}animales`],[`🎒 𝙄𝙣𝙫𝙚𝙣𝙩𝙖𝙧𝙞𝙤 𝙩𝙤𝙩𝙖𝙡`, `${usedPrefix}inventario 4`],['𝙈𝙚𝙣𝙪 𝘼𝙫𝙚𝙣𝙩𝙪𝙧𝙖 | 𝙍𝙋𝙂 💗', '.rpgmenu']], fkontak, m)}
 }
 handler.help = ['inventory', 'inv']
 handler.tags = ['rpg']

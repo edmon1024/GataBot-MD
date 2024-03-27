@@ -1,5 +1,5 @@
 //ESTOS DISEÑOS PARA MENSAJES SON COMPATIBLES CON GATABOT, SIN EMBARGO ALGUNOS NO SE VEN EN LA VERSIÓN DE WHATSAPP WEB
-//PERO EN EL CELULAR SI SE NOTA TODOS, PUEDES USAR EL QUE QUIERAS 😼
+//PERO EN EL CELULAR SI SE NOTA TODOS, PUEDES USAR EL QUE QUIERAS 🚀
 //import { generateWAMessageFromContent } from "@adiwajshing/baileys"
 let pkg = (await import(global.baileys)).default
 import fs from 'fs'

@@ -24,7 +24,7 @@ conn.reply(m.chat, `*╭━⊰ ${username} ⊱━დ*
 *╰━⊰ ${lenguajeGB.smsAutoLv1()} ⊱━━დ*
 
 *_${lenguajeGB.smsAutoLv6()}_*`, fkontak, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 AstroBot - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg.getRandom(), sourceUrl: accountsgb.getRandom()}}}) 
-/*conn.sendButton(m.chat, '🐈 ' + wm, `*╭━⊰ ${username} ⊱━დ*
+/*conn.sendButton(m.chat, '🚀 ' + wm, `*╭━⊰ ${username} ⊱━დ*
 *┃ ${lenguajeGB.smsAutoLv2()} ${before}*
 *┃ ${lenguajeGB.smsAutoLv3()} ${user.level}*
 *┃ ${lenguajeGB.smsAutoLv4()}* ${user.role}

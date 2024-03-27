@@ -45,7 +45,7 @@ externalAdReply: {
 showAdAttribution: false,
 renderLargerThumbnail: false,
 title: `🌟 FANTASÍA RPG`,
-body: `😼 Personajes de: » ${conn.getName(userId)}`,
+body: `🚀 Personajes de: » ${conn.getName(userId)}`,
 mediaType: 1,
 sourceUrl: accountsgb.getRandom(),
 thumbnailUrl: 'https://i.imgur.com/vIH5SKp.jpg'

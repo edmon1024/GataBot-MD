@@ -178,7 +178,7 @@ ${generateCommand(commandsReport, usedPrefix)}
 
 ${margen}
 
-> 🪅 *GATABOT TEMPORAL* 🪅\n
+> 🪅 *ASTROBOT TEMPORAL* 🪅\n
 ${generateCommand(commandsLink, usedPrefix)}
 
 ${margen}
@@ -506,7 +506,7 @@ ${margen}
 
 ✓ _${usedPrefix}fytendencia | fyranking_
 
-> 🏆 *TOP en GATABOT* 🏆
+> 🏆 *TOP en ASTROBOT* 🏆
 
 ✓ _${usedPrefix}top | lb | leaderboard_
 
@@ -530,7 +530,7 @@ ${margen}
 ✓ _${usedPrefix}stickerfilter *efecto : responder a imagen*_
 ✓ _${usedPrefix}cs *:* cs2_
 
-> 😼 *MODIFICAR STICKERS* 😼
+> 🚀 *MODIFICAR STICKERS* 🚀
 
 ✓ _${usedPrefix}wm *packname|author*_
 ✓ _${usedPrefix}wm *texto1|texto2*_

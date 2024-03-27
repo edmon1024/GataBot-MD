@@ -39,11 +39,11 @@ const roles = {
       '*DIAMANTE III* 💎': 74,
        '*DIAMANTE II* 💎': 76,
         '*DIAMANTE I* 💎': 78,
-    '*PRO EN GATABOT V* 😼': 80,
-     '*PRO EN GATABOT IV* 😼': 82,
-      '*PRO EN GATABOT III* 😼': 84,
-       '*PRO EN GATABOT II* 😼': 86,
-        '*PRO EN GATABOT I* 😼': 88,
+    '*PRO EN ASTROBOT V* 🚀': 80,
+     '*PRO EN ASTROBOT IV* 🚀': 82,
+      '*PRO EN ASTROBOT III* 🚀': 84,
+       '*PRO EN ASTROBOT II* 🚀': 86,
+        '*PRO EN ASTROBOT I* 🚀': 88,
     '*SUPER PRO V* 🎩': 90,
      '*SUPER PRO IV* 🎩': 92,
       '*SUPER PRO III* 🎩': 94,
@@ -118,9 +118,9 @@ handler.before = function (m, text) {
                                                                                         : ((user.level >= 63) && (user.level <= 66)) ? '*DIAMANTE III* 💎'
                                                                                             : ((user.level >= 66) && (user.level <= 69)) ? '*DIAMANTE II* 💎'
                                                                                                 : ((user.level >= 69) && (user.level <= 71)) ? '*DIAMANTE I* 💎'
-                                                                                                    : ((user.level >= 71) && (user.level <= 74)) ? '*PRO EN GATABOT III* 😼'
-                                                                                                        : ((user.level >= 74) && (user.level <= 77)) ? '*PRO EN GATABOT II* 😼'
-                                                                                                            : ((user.level >= 77) && (user.level <= 80)) ? '*PRO EN GATABOT I* 😼'
+                                                                                                    : ((user.level >= 71) && (user.level <= 74)) ? '*PRO EN ASTROBOT III* 🚀'
+                                                                                                        : ((user.level >= 74) && (user.level <= 77)) ? '*PRO EN ASTROBOT II* 🚀'
+                                                                                                            : ((user.level >= 77) && (user.level <= 80)) ? '*PRO EN ASTROBOT I* 🚀'
                                                                                                                 : ((user.level >= 80) && (user.level <= 83)) ? '*SUPER PRO III* 🎩'
                                                                                                                     : ((user.level >= 83) && (user.level <= 86)) ? '*SUPER PRO II* 🎩'
                                                                                                                         : ((user.level >= 86) && (user.level <= 89)) ? '*SUPER PRO I* 🎩'
