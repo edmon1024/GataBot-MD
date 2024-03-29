@@ -231,8 +231,6 @@ let menuA = `🎠 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}deltictactoe | delttt_
 ∘ _${usedPrefix}topgays_
 ∘ _${usedPrefix}topotakus_
-∘ _${usedPrefix}toppajer@s_
-∘ _${usedPrefix}topput@s_
 ∘ _${usedPrefix}topintegrantes | topintegrante_
 ∘ _${usedPrefix}toplagrasa | topgrasa_
 ∘ _${usedPrefix}toppanafrescos | toppanafresco_
@@ -245,10 +243,6 @@ let menuA = `🎠 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}lesbiana *nombre : @tag*_
 ∘ _${usedPrefix}manca *nombre : @tag*_
 ∘ _${usedPrefix}manco *nombre : @tag*_
-∘ _${usedPrefix}pajero *nombre : @tag*_
-∘ _${usedPrefix}pajera *nombre : @tag*_
-∘ _${usedPrefix}puto *nombre : @tag*_
-∘ _${usedPrefix}puta *nombre : @tag*_
 ∘ _${usedPrefix}rata *nombre : @tag*_
 ∘ _${usedPrefix}love *nombre : @tag*_
 ∘ _${usedPrefix}doxear *nombre : @tag*_

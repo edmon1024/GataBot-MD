@@ -201,34 +201,6 @@ if (command == 'lesbiana') {
 if (!text) return m.reply(`${lenguajeGB['smsAvisoMG']()}𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝙀 @𝙏𝘼𝙂 𝙊 𝙀𝙎𝘾𝙍𝙄𝘽𝘼 𝙀𝙇 𝙉𝙊𝙈𝘽𝙍𝙀\n𝙏𝘼𝙂 𝙎𝙊𝙈𝙀𝙊𝙉𝙀 @𝙏𝘼𝙂 𝙊𝙍 𝙏𝙔𝙋𝙀 𝙏𝙃𝙀 𝙉𝘼𝙈𝙀`) 
 let juego = `_*${text.toUpperCase()}* *ES/IS* *${(500).getRandom()}%* *${command.replace('how', '').toUpperCase()}*_ 🏳️‍🌈`.trim()
 await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid } : {})}
-  
-// ------------------------------------------------------------------------------------------------------------------------------------------------
-  
-if (command == 'pajero') {
-if (!text) return m.reply(`${lenguajeGB['smsAvisoMG']()}𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝙀 @𝙏𝘼𝙂 𝙊 𝙀𝙎𝘾𝙍𝙄𝘽𝘼 𝙀𝙇 𝙉𝙊𝙈𝘽𝙍𝙀\n𝙏𝘼𝙂 𝙎𝙊𝙈𝙀𝙊𝙉𝙀 @𝙏𝘼𝙂 𝙊𝙍 𝙏𝙔𝙋𝙀 𝙏𝙃𝙀 𝙉𝘼𝙈𝙀`)
-let juego = `_*${text.toUpperCase()}* *ES/IS* *${(500).getRandom()}%* *${command.replace('how', '').toUpperCase()}*_ 😏💦`.trim()
-await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid } : {})}
-  
-// ------------------------------------------------------------------------------------------------------------------------------------------------
-  
-if (command == 'pajera') {
-if (!text) return m.reply(`${lenguajeGB['smsAvisoMG']()}𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝙀 @𝙏𝘼𝙂 𝙊 𝙀𝙎𝘾𝙍𝙄𝘽𝘼 𝙀𝙇 𝙉𝙊𝙈𝘽𝙍𝙀\n𝙏𝘼𝙂 𝙎𝙊𝙈𝙀𝙊𝙉𝙀 @𝙏𝘼𝙂 𝙊𝙍 𝙏𝙔𝙋𝙀 𝙏𝙃𝙀 𝙉𝘼𝙈𝙀`)
-let juego = `_*${text.toUpperCase()}* *ES/IS* *${(500).getRandom()}%* *${command.replace('how', '').toUpperCase()}*_ 😏💦`.trim()
-await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid } : {})}
-  
-// ------------------------------------------------------------------------------------------------------------------------------------------------
-  
-if (command == 'puto') {
-if (!text) return m.reply(`${lenguajeGB['smsAvisoMG']()}𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝙀 @𝙏𝘼𝙂 𝙊 𝙀𝙎𝘾𝙍𝙄𝘽𝘼 𝙀𝙇 𝙉𝙊𝙈𝘽𝙍𝙀\n𝙏𝘼𝙂 𝙎𝙊𝙈𝙀𝙊𝙉𝙀 @𝙏𝘼𝙂 𝙊𝙍 𝙏𝙔𝙋𝙀 𝙏𝙃𝙀 𝙉𝘼𝙈𝙀`) 
-let juego = `_*${text.toUpperCase()}* *ES/IS* *${(500).getRandom()}%* *${command.replace('how', '').toUpperCase()},* *MÁS INFORMACIÓN A SU PRIVADO 🔥🥵 XD*_`.trim()
-await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid } : {})}
-  
-// ------------------------------------------------------------------------------------------------------------------------------------------------
-  
-if (command == 'puta') {
-if (!text) return m.reply(`${lenguajeGB['smsAvisoMG']()}𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝙀 @𝙏𝘼𝙂 𝙊 𝙀𝙎𝘾𝙍𝙄𝘽𝘼 𝙀𝙇 𝙉𝙊𝙈𝘽𝙍𝙀\n𝙏𝘼𝙂 𝙎𝙊𝙈𝙀𝙊𝙉𝙀 @𝙏𝘼𝙂 𝙊𝙍 𝙏𝙔𝙋𝙀 𝙏𝙃𝙀 𝙉𝘼𝙈𝙀`)
-let juego = `_*${text.toUpperCase()}* *ES/IS* *${(500).getRandom()}%* *${command.replace('how', '').toUpperCase()},* *MÁS INFORMACIÓN A SU PRIVADO 🔥🥵 XD*_`.trim()
-await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid } : {})}
 
  // ------------------------------------------------------------------------------------------------------------------------------------------------
   
@@ -249,20 +221,6 @@ await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid }
 if (command == 'rata') {
 if (!text) return m.reply(`${lenguajeGB['smsAvisoMG']()}𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝙀 @𝙏𝘼𝙂 𝙊 𝙀𝙎𝘾𝙍𝙄𝘽𝘼 𝙀𝙇 𝙉𝙊𝙈𝘽𝙍𝙀\n𝙏𝘼𝙂 𝙎𝙊𝙈𝙀𝙊𝙉𝙀 @𝙏𝘼𝙂 𝙊𝙍 𝙏𝙔𝙋𝙀 𝙏𝙃𝙀 𝙉𝘼𝙈𝙀`) 
 let juego = `_*${text.toUpperCase()}* *ES* *${(500).getRandom()}%* *${command.replace('how', '').toUpperCase()} 🐁 COME QUESO 🧀*_`.trim()
-await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid } : {})}
-  
-// ------------------------------------------------------------------------------------------------------------------------------------------------   
-  
-if (command == 'prostituto') {
-if (!text) return m.reply(`${lenguajeGB['smsAvisoMG']()}𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝙀 @𝙏𝘼𝙂 𝙊 𝙀𝙎𝘾𝙍𝙄𝘽𝘼 𝙀𝙇 𝙉𝙊𝙈𝘽𝙍𝙀\n𝙏𝘼𝙂 𝙎𝙊𝙈𝙀𝙊𝙉𝙀 @𝙏𝘼𝙂 𝙊𝙍 𝙏𝙔𝙋𝙀 𝙏𝙃𝙀 𝙉𝘼𝙈𝙀`) 
-let juego = `_*${text.toUpperCase()}* *ES* *${(500).getRandom()}%* *${command.replace('how', '').toUpperCase()} 🫦👅, QUIEN QUIERE DE SUS SERVICIOS? XD*_`.trim()
-await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid } : {})}
-  
-// ------------------------------------------------------------------------------------------------------------------------------------------------   
-  
-if (command == 'prostituta') {
-if (!text) return m.reply(`${lenguajeGB['smsAvisoMG']()}𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝙀 @𝙏𝘼𝙂 𝙊 𝙀𝙎𝘾𝙍𝙄𝘽𝘼 𝙀𝙇 𝙉𝙊𝙈𝘽𝙍𝙀\n𝙏𝘼𝙂 𝙎𝙊𝙈𝙀𝙊𝙉𝙀 @𝙏𝘼𝙂 𝙊𝙍 𝙏𝙔𝙋𝙀 𝙏𝙃𝙀 𝙉𝘼𝙈𝙀`) 
-let juego = `_*${text.toUpperCase()}* *ES* *${(500).getRandom()}%* *${command.replace('how', '').toUpperCase()} 🫦👅, QUIEN QUIERE DE SUS SERVICIOS? XD*_`.trim()
 await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid } : {})}
   
  // ------------------------------------------------------------------------------------------------------------------------------------------------   
@@ -384,23 +342,6 @@ m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 // ------------------------------------------------------------------------------------------------------------------------------------------------   
    
-if (command == 'toppajer@s') {
-let top = `*_😏TOP L@S MAS PAJEROS/AS DEL GRUPO💦_* 
-    
-*_1.- 🥵 ${user(a)}_* 💦
-*_2.- 🥵 ${user(b)}_* 💦
-*_3.- 🥵 ${user(c)}_* 💦
-*_4.- 🥵 ${user(d)}_* 💦
-*_5.- 🥵 ${user(e)}_* 💦
-*_6.- 🥵 ${user(f)}_* 💦
-*_7.- 🥵 ${user(g)}_* 💦
-*_8.- 🥵 ${user(h)}_* 💦
-*_9.- 🥵 ${user(i)}_* 💦
-*_10.- 🥵 ${user(j)}_* 💦`
-m.reply(top, null, { mentions: conn.parseMention(top) })}
-   
-// ------------------------------------------------------------------------------------------------------------------------------------------------   
-   
 if (command == 'toplind@s' || command == 'toplindos') {
 let top = `*_😳TOP L@S MAS LIND@S Y SEXIS DEL GRUPO😳_*
     
@@ -414,23 +355,6 @@ let top = `*_😳TOP L@S MAS LIND@S Y SEXIS DEL GRUPO😳_*
 *_8.- ✨ ${user(h)}_* ✨
 *_9.- ✨ ${user(i)}_* ✨
 *_10.- ✨ ${user(j)}_* ✨`
-m.reply(top, null, { mentions: conn.parseMention(top) })}
-   
-// ------------------------------------------------------------------------------------------------------------------------------------------------   
-   
-if (command == 'topput@s') {
-let top = `*_😏TOP L@S MAS PUT@S DEL GRUPO SON🔥_* 
-    
-*_1.- 👉 ${user(a)}_* 👌
-*_2.- 👉 ${user(b)}_* 👌
-*_3.- 👉 ${user(c)}_* 👌
-*_4.- 👉 ${user(d)}_* 👌
-*_5.- 👉 ${user(e)}_* 👌
-*_6.- 👉 ${user(f)}_* 👌
-*_7.- 👉 ${user(g)}_* 👌
-*_8.- 👉 ${user(h)}_* 👌
-*_9.- 👉 ${user(i)}_* 👌
-*_10.- 👉 ${user(j)}_* 👌`
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 // ------------------------------------------------------------------------------------------------------------------------------------------------   
@@ -474,9 +398,9 @@ m.reply(top, null, { mentions: conn.parseMention(top) })}
 //await conn.reply(m.chat, `${lenguajeGB['smsMalError3']()}#report ${lenguajeGB['smsMensError2']()} ${usedPrefix + command}\n\n${wm}`, fkontak, m)
 console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗❗`)
 console.log(e)}}
-handler.help = ['love', 'gay2', 'lesbiana', 'pajero', 'pajera', 'puto', 'puta', 'manco', 'manca', 'rata', 'prostituta', 'prostituto'].map(v => v + ' @tag | nombre')
+handler.help = ['love', 'gay2', 'lesbiana', 'manco', 'manca', 'rata'].map(v => v + ' @tag | nombre')
 handler.tags = ['calculator']
-handler.command = /^love|gay2|lesbiana|pajero|pajera|puto|puta|manco|manca|rata|prostituta|prostituto|amigorandom|amistad|regalar|dar|enviar|meter|chupar|metersela|retar|formarpareja|formarparejas|gay|personalidad|pregunta|preguntas|apakah|ship|shippear|topgays|topputos|toplindos|toplind@s|topput@s|toppajer@s|toppajeros|topshipost|topshiposters|toppanafresco|topgrasa|toppanafrescos|toplagrasa|topintegrante|topintegrantes|topotakus|topfamosos|topfamos@s|topsostero|topparejas|top5parejas|Doxxeo|doxxeo|doxxear|Doxxear|doxeo|doxear|doxxeame|doxeame|ruletas|ruleta|suerte/i
+handler.command = /^love|gay2|lesbiana|manco|manca|rata|amigorandom|amistad|regalar|dar|enviar|meter|chupar|metersela|retar|formarpareja|formarparejas|gay|personalidad|pregunta|preguntas|apakah|ship|shippear|topgays|toplindos|toplind@s|toppajer@s|topshipost|topshiposters|toppanafresco|topgrasa|toppanafrescos|toplagrasa|topintegrante|topintegrantes|topotakus|topfamosos|topfamos@s|topsostero|topparejas|top5parejas|Doxxeo|doxxeo|doxxear|Doxxear|doxeo|doxear|doxxeame|doxeame|ruletas|ruleta|suerte/i
 handler.exp = 100
 handler.group = true
 export default handler
