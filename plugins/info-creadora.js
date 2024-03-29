@@ -80,7 +80,7 @@ let teksbio = `AstroBot 💖🚀
 *---------------------*
 *CENTER ASTROBOT*
 *centergatabot@gmail.com*
-𝙂𝘼𝙏𝘼 𝘿𝙄𝙊𝙎 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
+3d - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 *${asistencia}*`
   let teks = ' '
 const sections = [
@@ -97,7 +97,6 @@ const sections = [
 	title: `–––––––·• APOYA AL BOT –––––––·•`,
 	rows: [
 	    {title: "💹 • DONAS", rowId: ".paypal"},
-	{title: "🤖 • INSTALARBOT", rowId: ".instalarbot"},
 	{title: "🌟 • PREMIUM", rowId: ".pasepremium"},
 	]
   },

@@ -224,7 +224,6 @@ rows: [
 {title: lenguajeGB['smsLista4'](), rowId: `${usedPrefix}ping`},
 {title: lenguajeGB['smsLista5'](), rowId: `${usedPrefix}infomenu`},
 {title: lenguajeGB['smsLista6'](), rowId: `${usedPrefix}allmenu`},
-{title: lenguajeGB['smsLista7'](), rowId: `${usedPrefix}instalarbot`},
 {title: lenguajeGB['smsLista8'](), rowId: `${usedPrefix}serbot`},
 {title: lenguajeGB['smsLista9'](), rowId: `${usedPrefix}términos`, description: '\n'}
 ]},{

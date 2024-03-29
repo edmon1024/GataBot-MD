@@ -131,34 +131,34 @@ global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 global.gt = "AstroBot"
 
-global.yt = "https://youtube.com/@gatadios"
-global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
-global.ig = "https://www.instagram.com/gata_dios"
+global.yt = "https://youtube.com/"
+global.yt2 = "https://www.youtube.com/"
+global.ig = "https://www.instagram.com/"
 global.md = ""
-global.fb = "https://www.facebook.com/groups/872989990425789/"
-global.tk = "https://www.tiktok.com/@gata_bot"
-global.ths = "https://www.threads.net/@gata_dios"
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'https://wa.me/message/C45GXBEFTPONE1' //Contacto
-global.bot = 'wa.me/5214431086138\n* wa.me/17866739002' //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 💖🐈
+global.fb = "https://www.facebook.com/"
+global.tk = "https://www.tiktok.com/"
+global.ths = "https://www.threads.net/"
+global.paypal = 'https://paypal.me/'
+global.asistencia = 'https://wa.me/' //Contacto
+global.bot = 'wa.me/525575578446' //AstroBot 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 🚀
 
 global.nna = 'https://www.atom.bio/GataBot/' // Cuentas
 global.nn2 = 'https://t.me/supergatabot' // Grupo tg GataBot
-global.nna2 = 'https://chat.whatsapp.com/KaTeeaexrGSHBzPm4s945b' // Help
+global.nna2 = 'https://chat.whatsapp.com/' // Help
 global.nn = '' // Grupo 1
-global.nnn = 'https://chat.whatsapp.com/CtA2nopOZor0bRwV3FCYH3' // Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/HVLk7c3ZlNN0mJjodw4NkV' // Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/BSDrNVhj2lVElUgrNnGoby' // Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/CciFSHhsYxd9TqW2tZhhZx' // Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/Ej5AUrpmYnJKYtEa6YMwK6' // Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/I9DsG6ABKer27NbW01Nl39' // Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/BngbJC3aBVhF5KjoaawiT1' // Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/KQtWZDVfosTKbheIlndLBN' // Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/HXOGzELFOVXFM1KrSoKdqH' // MULTI - BOTS
-global.nnnttt6 = 'https://chat.whatsapp.com/KNFk4om8MR70h8t3fTSHea' // A.T.M.M
-global.channel1 = 'https://whatsapp.com/channel/0029Va6yY0iLY6d6XDmqA03g'
-global.channel2 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'
-global.channel3 = 'https://t.me/globalgb'
+global.nnn = 'https://chat.whatsapp.com/' // Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/' // Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/' // Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/' // Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/' // Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/' // Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/' // Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/' // Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/' // MULTI - BOTS
+global.nnnttt6 = 'https://chat.whatsapp.com/' // A.T.M.M
+global.channel1 = 'https://whatsapp.com/channel/'
+global.channel2 = 'https://whatsapp.com/channel/'
+global.channel3 = 'https://t.me/'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'

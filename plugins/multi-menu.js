@@ -367,7 +367,6 @@ let menuA = `🌟 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}listagrupos | grouplist_
 ∘ _${usedPrefix}estado | heygata | status_
 ∘ _${usedPrefix}infoastro | infobot_
-∘ _${usedPrefix}instalarbot | installbot_
 ∘ _${usedPrefix}creadora | owner_
 ∘ _${usedPrefix}velocidad | ping_
 ∘ _${usedPrefix}serbot | jadibot_
