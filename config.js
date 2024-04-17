@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["525575578446"],
+["525568948471"],
 ]
 
 global.mods = []
@@ -111,7 +111,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["525575578446", '3d', 1], 
+["525568948471", '3d', 1], 
 ]
 
 global.mail = '' // Add email
@@ -140,7 +140,7 @@ global.tk = "https://www.tiktok.com/"
 global.ths = "https://www.threads.net/"
 global.paypal = 'https://paypal.me/'
 global.asistencia = 'https://wa.me/' //Contacto
-global.bot = 'wa.me/525575578446' //AstroBot 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 🚀
+global.bot = 'wa.me/525568948471' //AstroBot 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 🚀
 
 global.nna = 'https://www.atom.bio/GataBot/' // Cuentas
 global.nn2 = 'https://t.me/supergatabot' // Grupo tg GataBot
@@ -190,7 +190,7 @@ global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "525575578446"
+global.nomorown = "525568948471"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
