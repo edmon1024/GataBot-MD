@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["525568948471"],
+["525568948471", "525575578446", "525561994611"],
 ]
 
 global.mods = []
@@ -112,6 +112,8 @@ global.moment = moment
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
 ["525568948471", '3d', 1], 
+["525575578446", "3d", 1],
+["525561994611", "3d", 1],
 ]
 
 global.mail = '' // Add email
@@ -140,7 +142,7 @@ global.tk = "https://www.tiktok.com/"
 global.ths = "https://www.threads.net/"
 global.paypal = 'https://paypal.me/'
 global.asistencia = 'https://wa.me/' //Contacto
-global.bot = 'wa.me/525568948471' //AstroBot 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 🚀
+global.bot = 'wa.me/525575548446' //AstroBot 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 🚀
 
 global.nna = 'https://www.atom.bio/GataBot/' // Cuentas
 global.nn2 = 'https://t.me/supergatabot' // Grupo tg GataBot
